@@ -30,6 +30,21 @@ average examination score.
 
 python create_database.py
 
+## How to View the Database
+
+The database can be viewed using DB Browser for SQLite.
+
+1. Download the repository by clicking the Code button
+   and selecting Download ZIP.
+2. Extract the downloaded ZIP file.
+3. Open DB Browser for SQLite.
+4. Click Open Database.
+5. Select the student_database.db file.
+6. Navigate to the Browse Data tab.
+7. Select the students table.
+
+All student records will be displayed in rows and columns.
+
 ## Note
 All student information in this database
 is fictional.
